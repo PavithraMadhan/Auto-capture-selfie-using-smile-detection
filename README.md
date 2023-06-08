@@ -17,4 +17,6 @@ OpenCV is an open-source library for computer vision, with a focus on real-time 
 
 In the best case scenario an accuracy of 95.5% can be achieved.
 
+This project was done in collaboration with https://github.com/smth-27, check out his profile.
 Ref : https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
+
